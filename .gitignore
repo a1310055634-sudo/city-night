@@ -1,4 +1,4 @@
-shots/
-*.mjs
-_healthcheck*
 .round-lock
+_healthcheck*
+node_modules/
+{n

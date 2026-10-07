@@ -117,4 +117,11 @@ Three.js r160（CDN importmap，零构建）；MeshToonMaterial + BackSide 描�
 - `CITY-PROGRESS.md` — **60 轮账本**（唯一进度事实源，只追加不重写）
 - `PROMPT.md` — V3 任务书（v5）；`PROMPT-v2.md` — V2（v4）；`PROMPT-v1.md` — V1 归档
 - `shots/` — 全部验收截图（r18-* / v2-scan-* / v3-scan-* / final* 系列）+ `scan.mjs` 一键扫描器
+- `r*_check.mjs` — 各轮验收探针脚本（CDP 断言）
 - `README.md` — 本文件
+
+---
+
+## 许可证
+
+[MIT](LICENSE) —— 可自由使用、修改、再分发。唯二外部依赖：Three.js r160（MIT，走 CDN importmap）、系统字体（Yu Gothic / Meiryo），项目自身零外部资产。
