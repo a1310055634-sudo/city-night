@@ -1,0 +1,4 @@
+shots/
+*.mjs
+_healthcheck*
+.round-lock
